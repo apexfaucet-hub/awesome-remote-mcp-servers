@@ -200,6 +200,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
+- [APEX](https://apexfaucet.xyz/connect/) `https://apexfaucet.xyz/api/mcp`
+  [![APEX MCP connector](https://glama.ai/mcp/connectors/xyz.apexfaucet/apex-x1/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.apexfaucet/apex-x1)
+  🔓 - Render any URL, or up to 25 pages of a site, in headless Chrome to clean text; free preview, paid via x402.
+
 - [Browser Forest](https://browserforest.com) `https://browserforest.com/api/mcp/bf`
   [![Browser Forest MCP connector](https://glama.ai/mcp/connectors/com.browserforest/browser-forest/badges/score.svg)](https://glama.ai/mcp/connectors/com.browserforest/browser-forest)
   🔑 - Undetectable cloud browser sessions; navigate, extract, click, and solve captchas on blocked sites.
